@@ -28,7 +28,7 @@ body{
 	width: 1200px;
 }
 #kiri{
-	background: rgba(0, 0, 255, 1);
+	background: skyblue;
 	height: 4650px;
 	width: 1194px;
 	float: left;
@@ -56,7 +56,7 @@ body{
 	font-family: Verdana;
 }
 .sidebar{
-	background-color: rgba(0, 0, 255, 1);
+	background-color: skyblue;
 	color: beige;
 }
 .text {
